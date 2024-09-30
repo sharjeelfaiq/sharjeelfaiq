@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI Websites in MEAN Stack.<br>👨🏻‍🤝‍👨🏻 I'm looking to collaborate in the MEAN Stack Projects.<br>🤝 I'm seeking help to get a Full Stack Web Developer job abroad.<br>🌱 I'm currently mastering Web Development with Angular.<br>🗨️ Ask me about my skills and achievements.<br>⚡ I’ve learned to appreciate the beauty of clean code—it's like art to me!
+🔭 I'm currently working to achieve Backend Matery.<br>👨🏻‍🤝‍👨🏻 I'm looking to collaborate in the MEAN Stack Projects.<br>🤝 I'm seeking help to get a Full Stack Web Developer job abroad.<br>🌱 I'm currently mastering Web Development with Angular.<br>🗨️ Ask me about my skills and achievements.<br>⚡ I’ve learned to appreciate the beauty of clean code—it's like art to me!
 
 
 ## 🌐 Socials:
