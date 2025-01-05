@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I'm currently working on Full Stack projects<br>👨🏻‍🤝‍👨🏻 I'm looking to collaborate in the large scale React projects<br>🤝 I'm seeking help to get a Full Stack Web Developer job abroad<br>🌱 I'm currently mastering Web Development with React<br>🗨️ Ask me about my skills and achievements<br>⚡ I’ve learned to appreciate the beauty of clean code—it's like an art to me!
+# 💫 About Me:  
+🔭 Currently building dynamic Full Stack web applications that improve user experiences and streamline workflows.<br>
+👨🏻‍🤝‍👨🏻 Open to collaborating on large-scale React applications to solve challenging problems.<br>
+🌍 Actively seeking a Full Stack Web Developer role abroad, with a preference for impactful and innovative projects.<br>
+🌱 Focused on mastering advanced Web Development with React and staying ahead of industry trends.<br>
+🗨️ Feel free to ask about my skills, achievements, or projects. Here are a few highlights:<br>
+- 📈 Developed a web solution that increased customer engagement by **30%** for a client.<br>
+- 🚀 Optimized backend processes, reducing API response time by **40%**.<br>
+- 🎯 Led a team to deliver a scalable application architecture, supporting a **50% growth** in user base.<br>
+⚡ I view clean, efficient code as both a craft and an art form—it’s my passion!<br>
 
 
 ## 🌐 Socials:
