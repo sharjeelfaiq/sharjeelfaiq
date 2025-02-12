@@ -1,5 +1,5 @@
 # 💫 About Me:  
-🔭 Currently building dynamic Full Stack web applications that improve user experiences and streamline workflows.<br>
+🔭 Developing a MERN Stack PLC software with WebSockets to update operators on network tower status, deliver sensor data, and allow direct control via the website.<br>
 👨🏻‍🤝‍👨🏻 Open to collaborating on large-scale React applications to solve challenging problems.<br>
 🌍 Actively seeking a Full Stack Web Developer role abroad, with a preference for impactful and innovative projects.<br>
 🌱 Focused on mastering advanced Web Development with React and staying ahead of industry trends.<br>
