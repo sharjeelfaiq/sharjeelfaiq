@@ -1,111 +1,84 @@
-# Hi there, I'm Sharjeel 👋
+# Hey, I'm Sharjeel! 👨‍💻
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences;Performance+%26+Clean+Code+Enthusiast;Innovation+Through+Technology)
+
+<img src="https://komarev.com/ghpvc/?username=sharjeelfaiq&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-```typescript
+## 🌟 About Me
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+```javascript
 const sharjeel = {
-    role: "Full-Stack Developer",
-    location: "Remote/Global 🌍",
-    currentFocus: "Building impactful web applications",
-    passions: ["Clean Architecture", "Performance Optimization", "User Experience"],
-    achievements: {
-        apiPerformance: "↗️ 40% improvement",
-        userGrowth: "📈 30% increase",
-        mindset: "Innovation-driven development"
-    },
-    availability: "Open to remote opportunities"
+  role: "Full-Stack Developer",
+  location: "🌍 Remote/Global",
+  focus: "Building impactful solutions",
+  passion: [
+    "Clean Architecture",
+    "Performance Optimization", 
+    "Exceptional UX"
+  ],
+  achievements: {
+    performance: "↗️ 40% API improvement",
+    growth: "📈 30% user increase",
+    approach: "Innovation-driven"
+  },
+  status: "🚀 Available for opportunities"
 };
 ```
 
-### What I'm up to:
-- 🧪 **Experimenting** with unconventional projects that push creative boundaries
-- 💡 **Architecting** clean, efficient, and scalable solutions 
-- 🔍 **Seeking** impactful Full Stack roles where innovation thrives
-- 🤝 **Collaborating** with visionary teams on exceptional digital experiences
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+- 🧪 **Experimenting** with cutting-edge technologies
+- 🏗️ **Architecting** scalable, maintainable solutions
+- 🔍 **Seeking** impactful Full-Stack opportunities
+- 🤝 **Building** exceptional digital experiences
+
+### 💡 What Drives Me
+Creating software that not only works flawlessly but delights users and makes a real difference in their lives.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Excellence
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Technology Stack
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharjeelfaiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelfaiq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelfaiq&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 Contribution Highlights
-
-<div align="center">
-  
-![GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=sharjeelfaiq&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 💭 Daily Inspiration
-
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeelfaiq)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SharjeelFaiq)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharjeelfaiq)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sharjeelfaiq610)
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" alt="Frontend Skills" />
+</p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sharjeelfaiq16)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sharjeel-faiq)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharjeelfaiq)
+### ⚙️ Backend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase" alt="Backend Skills" />
+</p>
+
+### 🚀 Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" alt="Tools & DevOps" />
+</p>
 
 </div>
 
@@ -113,9 +86,101 @@ const sharjeel = {
 
 <div align="center">
 
-### 💼 Open for Opportunities
-**Seeking Full-Stack Developer roles • Remote/Global • Innovation-focused teams**
+## 📈 GitHub Analytics
 
-*"Building the future, one commit at a time"* ✨
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=sharjeelfaiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelfaiq&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelfaiq&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most Used Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharjeelfaiq&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelfaiq&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+<p>
+<a href="https://linkedin.com/in/sharjeelfaiq">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/SharjeelFaiq">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://medium.com/@sharjeelfaiq">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://discord.gg/sharjeelfaiq610">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+</p>
+
+<p>
+<a href="https://youtube.com/@sharjeelfaiq16">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://stackoverflow.com/users/sharjeel-faiq">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://instagram.com/sharjeelfaiq">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Ready for New Challenges
+
+**Full-Stack Developer • Remote/Global • Innovation-Focused Teams**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&animation=fadeIn&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=ffffff" alt="Footer" />
+
+*Building tomorrow's solutions today* ✨
 
 </div>
