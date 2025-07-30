@@ -123,7 +123,7 @@ Creating software that doesn't just work, but also inspires and transforms user 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7be077.gif" width="100">
+<img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="100">
 </div>
 
 </td>
