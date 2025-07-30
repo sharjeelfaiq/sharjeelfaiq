@@ -15,9 +15,7 @@
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24ceb8e.gif" width="50">
-<h2>🌟 About Me</h2>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24ceb8e.gif" width="50">
+<h2>🌟 About Me 🌟</h2>
 </div>
 
 <table>
@@ -88,9 +86,7 @@ Creating software that doesn't just work—it inspires and transforms user exper
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
-<h2>🛠️ Technology Arsenal</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+<h2>🛠️ Technology Arsenal ⚡</h2>
 </div>
 
 <table>
@@ -141,9 +137,7 @@ Creating software that doesn't just work—it inspires and transforms user exper
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
-<h2>📈 GitHub Analytics</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+<h2>📈 GitHub Analytics 📊</h2>
 </div>
 
 <div align="center">
@@ -175,9 +169,7 @@ Creating software that doesn't just work—it inspires and transforms user exper
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
-<h2>🏆 Achievement Showcase</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
+<h2>🏆 Achievement Showcase 🎯</h2>
 </div>
 
 <div align="center">
@@ -191,9 +183,7 @@ Creating software that doesn't just work—it inspires and transforms user exper
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-<h2>💭 Daily Inspiration</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<h2>💭 Daily Inspiration ✨</h2>
 </div>
 
 <div align="center">
@@ -207,9 +197,7 @@ Creating software that doesn't just work—it inspires and transforms user exper
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
-<h2>🤝 Let's Connect & Build Together</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
+<h2>🤝 Let's Connect & Build Together 🌐</h2>
 </div>
 
 <div align="center">
