@@ -73,7 +73,7 @@ const sharjeel: Developer = {
 ### 💡 Philosophy
 *"Code is poetry written in logic"*
 
-Creating software that doesn't just work—it inspires and transforms user experiences.
+Creating software that doesn't just work, but inspires and transforms user experiences.
 
 </td>
 </tr>
