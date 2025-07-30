@@ -116,8 +116,6 @@ const sharjeel = {
 ### 💼 Open for Opportunities
 **Seeking Full-Stack Developer roles • Remote/Global • Innovation-focused teams**
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sharjeelfaiq&label=Profile%20Views&color=0e75b6&style=flat)
-
 *"Building the future, one commit at a time"* ✨
 
 </div>
