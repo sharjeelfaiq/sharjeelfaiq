@@ -207,12 +207,8 @@ Creating software that doesn't just work, but also inspires and transforms user 
 
 ### 🌐 Professional
 <div align="center">
-<a href="https://linkedin.com/in/sharjeelfaiq">
+<a href="https://www.linkedin.com/in/sharjeelfaiq">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-</a>
-<br><br>
-<a href="https://stackoverflow.com/users/sharjeel-faiq">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" alt="Stack Overflow" />
 </a>
 </div>
 
@@ -224,10 +220,7 @@ Creating software that doesn't just work, but also inspires and transforms user 
 <a href="https://medium.com/@sharjeelfaiq">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
 </a>
-<br><br>
-<a href="https://youtube.com/@sharjeelfaiq16">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" />
-</a>
+<br>
 </div>
 
 </td>
@@ -235,24 +228,14 @@ Creating software that doesn't just work, but also inspires and transforms user 
 
 ### 💬 Community & Social
 <div align="center">
-<a href="https://x.com/SharjeelFaiq">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-</a>
-<br><br>
-<a href="https://discord.gg/sharjeelfaiq610">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+<a href="https://www.instagram.com/sharjeelfaiq/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </div>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-<a href="https://instagram.com/sharjeelfaiq">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-</a>
-</div>
 
 </div>
 
