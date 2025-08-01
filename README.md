@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic typing animation with enhanced styling -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8;Performance+%26+Clean+Code+Enthusiast;Innovation+Through+Technology+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Full-Stack+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8;Performance+%26+Clean+Code+Enthusiast;Innovation+Through+Technology+%F0%9F%92%A1;Building+SAAS+%26+AI+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=sharjeelfaiq&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 
@@ -34,25 +34,33 @@ interface Developer {
     growth: string;
     approach: string;
   };
+  specializations: string[];
   status: string;
 }
 
 const sharjeel: Developer = {
   name: "Sharjeel Faiq",
-  role: "Full-Stack Developer",
+  role: "Full-Stack Developer & AI Solutions Architect",
   location: "🌍 Remote/Global",
-  focus: "Building impactful solutions",
+  focus: "Building impactful SAAS & AI solutions",
   expertise: [
     "Clean Architecture",
     "Performance Optimization", 
     "Exceptional UX",
-    "Scalable Systems"
+    "Scalable Systems",
+    "AI Integration"
   ],
   achievements: {
     performance: "↗️ 40% API improvement",
     growth: "📈 30% user increase",
     approach: "Innovation-driven"
   },
+  specializations: [
+    "MERN Stack Applications",
+    "AI-Powered Solutions", 
+    "SAAS Platforms",
+    "Freelance Marketplaces"
+  ],
   status: "🚀 Available for opportunities"
 };
 ```
@@ -65,15 +73,20 @@ const sharjeel: Developer = {
 </div>
 
 ### 🎯 Current Focus
-- 🧪 **Experimenting** with cutting-edge tech
-- 🏗️ **Architecting** scalable solutions  
+- 🧪 **Experimenting** with AI & TTS technologies
+- 🏗️ **Architecting** SAAS solutions  
 - 🔍 **Seeking** impactful opportunities
 - 🤝 **Building** exceptional experiences
+- 📦 **Publishing** NPM packages
 
 ### 💡 Philosophy
 *"Code is poetry written in logic"*
 
-Creating software that doesn't just work, but also inspires and transforms user experiences.
+Creating software that doesn't just work, but also inspires and transforms user experiences through innovation and clean architecture.
+
+### 📞 Quick Contact
+**Email:** sharjeelfaiq816@gmail.com  
+**WhatsApp:** (+92) 336 8857575
 
 </td>
 </tr>
@@ -119,7 +132,7 @@ Creating software that doesn't just work, but also inspires and transforms user 
 
 ### 🚀 DevOps & Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" alt="Tools & DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,aws&theme=dark" alt="Tools & DevOps" />
 </div>
 
 <div align="center">
@@ -129,6 +142,56 @@ Creating software that doesn't just work, but also inspires and transforms user 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+<h2>🚀 Featured Projects & Solutions 💼</h2>
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI & SAAS Solutions
+<div align="center">
+
+[![Vocora Cloud](https://img.shields.io/badge/Vocora_Cloud-AI_TTS_Platform-00D9FF?style=for-the-badge&logo=openai&logoColor=white)](https://vocora.cloud/)
+
+[![SmartTowerLab](https://img.shields.io/badge/SmartTowerLab-MERN_SAAS-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://smarttowerlab.com/)
+
+[![Bluelines RAG](https://img.shields.io/badge/Bluelines_RAG-AI_Solution-9146FF?style=for-the-badge&logo=amazon-aws&logoColor=white)](http://bluelines-rag.s3-website.eu-north-1.amazonaws.com/)
+
+</div>
+
+</td>
+<td width="50%" align="center">
+
+### 💼 Business & Portfolio
+<div align="center">
+
+[![RunTime Gurus](https://img.shields.io/badge/RunTime_Gurus-Company_Portfolio-00C851?style=for-the-badge&logo=next.js&logoColor=white)](https://runtimeguru.com/)
+
+[![Romulus](https://img.shields.io/badge/Romulus-Freelance_Platform-FF8800?style=for-the-badge&logo=freelancer&logoColor=white)](https://romulus-web.vercel.app)
+
+[![ViralisMedia](https://img.shields.io/badge/ViralisMedia-Agency_Portfolio-E91E63?style=for-the-badge&logo=webflow&logoColor=white)](https://www.viralismedia.com/)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<h3>🌟 Project Highlights</h3>
+<p><strong>Vocora Cloud:</strong> AI-powered Text-to-Speech platform with advanced voice synthesis</p>
+<p><strong>SmartTowerLab:</strong> Comprehensive MERN stack SAAS application with full scalability</p>
+<p><strong>Romulus:</strong> Modern freelance marketplace connecting talent with opportunities</p>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -177,6 +240,31 @@ Creating software that doesn't just work, but also inspires and transforms user 
 </div>
 
 <div align="center">
+<h3>📦 NPM Contributions</h3>
+<a href="https://npmjs.com/~mrmalik610">
+<img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Profile" />
+</a>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+<h2>🎥 Client Testimonials ⭐</h2>
+</div>
+
+<div align="center">
+<a href="https://youtu.be/_iR8-bjWei4">
+<img src="https://img.shields.io/badge/Watch_Testimonials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Testimonials" />
+</a>
+
+<p><em>"Real client feedback showcasing the impact and quality of delivered solutions"</em></p>
+</div>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
@@ -203,33 +291,58 @@ Creating software that doesn't just work, but also inspires and transforms user 
 <div align="center">
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
 ### 🌐 Professional
 <div align="center">
-<a href="https://www.linkedin.com/in/sharjeelfaiq">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+<a href="https://linkedin.com/in/sharjeelfaiq/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<br>
+<a href="https://sharjeelfaiq.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 </div>
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 ### 📝 Content & Insights
 <div align="center">
 <a href="https://medium.com/@sharjeelfaiq">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 <br>
+<a href="https://linktr.ee/sharjeelfaiq">
+<img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+</a>
 </div>
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
-### 💬 Community & Social
+### 💬 Social Media
 <div align="center">
-<a href="https://www.instagram.com/sharjeelfaiq/">
+<a href="https://instagram.com/sharjeelfaiq/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<br>
+<a href="https://x.com/SharjeelFaiq16">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+</div>
+
+</td>
+<td align="center" width="25%">
+
+### 🔗 More Platforms
+<div align="center">
+<a href="https://facebook.com/sharjeelfaiq610/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<br>
+<a href="https://threads.com/@sharjeelfaiq">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
 </a>
 </div>
 
@@ -250,7 +363,9 @@ Creating software that doesn't just work, but also inspires and transforms user 
 
 ### 🚀 Ready for the Next Challenge
 
-**Full-Stack Developer • Remote/Global • Innovation-Focused Teams**
+**Full-Stack Developer • AI Solutions Architect • Remote/Global • Innovation-Focused Teams**
+
+**Let's build something extraordinary together!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&animation=fadeIn&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=28&fontColor=ffffff&fontAlignY=65&desc=Transforming%20ideas%20into%20digital%20reality&descAlignY=85&descSize=16" alt="Footer" />
 
