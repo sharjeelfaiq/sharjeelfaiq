@@ -43,6 +43,7 @@ I move between both because most "AI features" client work needs are the same en
 
 | Project | What it is |
 |---|---|
+| [**Markbeam**](https://markbeam.app/) | Online Markdown editor with live preview, offline support, and no sign-up required.
 | [**Vocora**](https://vocoraa.vercel.app/) | AI-powered text-to-speech platform |
 | [**Tailimations**](https://tailimations.vercel.app/) | Tailwind CSS animation utility/component tool |
 
