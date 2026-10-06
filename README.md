@@ -11,7 +11,6 @@ Founder, [Aestive Digital](https://aestive.digital/) — web, SEO & AI automatio
 
 [![Resume](https://img.shields.io/badge/Resume-View-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FBLYf5bIxJZ7TdjoVDAdejy3H2x97uUj/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeelfaiq/)
-[![Aestive Digital](https://img.shields.io/badge/Aestive_Digital-Book_a_Call-00D9FF?style=for-the-badge)](https://aestive.digital/)
 
 </div>
 
@@ -20,8 +19,6 @@ Founder, [Aestive Digital](https://aestive.digital/) — web, SEO & AI automatio
 ## What I do
 
 **As an engineer:** 5–6 years shipping production systems in Node.js/NestJS, React/Next.js, and TypeScript — currently leading a team, owning architecture decisions on high-volume transactional systems, and integrating LLMs (OpenAI, Gemini) into RAG pipelines and internal tooling.
-
-**As a founder:** Run Aestive Digital, an agency building websites, SEO systems, and AI automation for med spas and local service businesses — from outreach infrastructure to delivery.
 
 I move between both because most "AI features" client work needs are the same engineering problems as backend systems — just with a sales layer in front. That crossover is where I'm most useful.
 
@@ -53,7 +50,6 @@ Pinned repos below show the code directly.
 
 | Project | What it is |
 |---|---|
-| [**Aestive Digital**](https://aestive.digital/) | Agency — web dev, SEO, AI automation for local service businesses |
 | [**RunTime Gurus**](https://www.runtimeguru.com/) | Company portfolio — YouTube automation & dev services |
 | [**ViralisMedia**](https://viralis.media/en) | Agency portfolio site |
 
