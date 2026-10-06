@@ -3,9 +3,6 @@
 # Sharjeel Faiq
 
 **Senior Full-Stack Developer & Team Lead** · Building production systems and AI-powered products
-Founder, [Aestive Digital](https://aestive.digital/) — web, SEO & AI automation for service businesses
-
-**Engineer who ships production backends *and* runs client-facing AI/web delivery — most agencies claiming "AI integration" don't have the first half.**
 
 📍 Islamabad, PK (Remote-friendly) · ✉️ sharjeelfaiq816@gmail.com
 
