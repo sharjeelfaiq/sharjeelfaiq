@@ -9,7 +9,7 @@ Founder, [Aestive Digital](https://aestive.digital/) — web, SEO & AI automatio
 
 📍 Islamabad, PK (Remote-friendly) · ✉️ sharjeelfaiq816@gmail.com
 
-[![Resume](https://img.shields.io/badge/Resume-View-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rtQWh41hbQnfuEtv8ZDyP-0NqD3z1jUI/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FBLYf5bIxJZ7TdjoVDAdejy3H2x97uUj/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeelfaiq/)
 [![Aestive Digital](https://img.shields.io/badge/Aestive_Digital-Book_a_Call-00D9FF?style=for-the-badge)](https://aestive.digital/)
 
